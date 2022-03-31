@@ -1,16 +1,14 @@
-### Hi there 👋
+👩🏻‍💻 Hi, I’m Catherine
+Frontend development enthusiast
 
-<!--
-**r4je/r4je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    🍃 I love creating new things
+    📖 I’m currently mastering JavaScript
+    🌸 I enjoy some CSS and HTML as well!
+    🐙 Developer work experience 0
 
-Here are some ideas to get you started:
+Languages & Tools I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+css3 html5 javascript vscode figma git react vue
+Let's Connect:
+
+me in linkedin
