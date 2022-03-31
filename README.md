@@ -1,5 +1,5 @@
-<h1 align="center">👩🏻‍💻 Hi, I’m Santiago Brito 💻</h1>
-<h2 align="center">I only use this github for my university studies. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></h2>
+<h1 align="center">👩🏻‍💻 Hi, I’m Santiago Brito</h1>
+<h2 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> I only use this github for my university studies. <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></h2>
 
 
 <h3 align="center">Languages & Tools I Use:</h3>
