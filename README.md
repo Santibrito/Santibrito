@@ -28,12 +28,18 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" height="42px"/> </a> 
+
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" height="42px"/> </a>
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="java" height ="42px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
+
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="axios" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png"></a>
+
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
