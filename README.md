@@ -43,14 +43,14 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
 
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
 
 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="java" height ="42px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </a>
 
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
-
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png"> </a>
+
+
 
 
 
