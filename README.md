@@ -26,7 +26,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Lenguajes y Herramientas:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="42px"/> </a> 
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" height="42px"/> </a>
