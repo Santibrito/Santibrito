@@ -37,7 +37,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 ### 🛠️ Mis proyectos
 <a href="http://www.prfumigaciones.com.ar/index.html" target="_blank"> <img alt="Pr Fumigaciones" src="http://www.prfumigaciones.com.ar/assets/img/logo/controlacacianegra.png" height="63" align="left"> </a>
 
-<a href="https://santibrito.github.io/AmazingEvents_Vanilla/" target="_blank"> <img alt="sheetsdatabase" src="https://raw.githubusercontent.com/Santibrito/AmazingEvents/main/assets/img/LogoAmazingEvents.png"  height="63" align="left"> </a>
+<a href="https://github.com/Santibrito/AmazingEvents"> <img alt="sheetsdatabase" src="https://raw.githubusercontent.com/Santibrito/AmazingEvents/main/assets/img/LogoAmazingEvents.png"  height="63" align="left"> </a>
 
 <a href="https://github.com/Santibrito/ProyectoFinal" target="_blank"> <img alt="readmeicons" src="https://i.ibb.co/FV08FDk/logo.png" height="63" align="left"> </a>
 <a href="https://github.com/Santibrito/bankMindHub" target="_blank"> <img alt="passwordkeeper" src="https://i.ibb.co/2k7y0bB/cdnlogo-com-deutsche-bank.png" height="63" align="left"> </a>
