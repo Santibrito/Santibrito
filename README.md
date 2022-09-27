@@ -15,14 +15,11 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
   
 ### 🧐 Más sobre mí:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 🌱 &nbsp; Actualmente estoy aprendiendo React; 
+- 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/rahul-jha98?tab=repositories)
+- 💬 &nbsp; Pregúnteme sobre cualquier cosa relacionada con la tecnología, estaré feliz de ayudar;
+- 📫 &nbsp; Siéntete libre de enviarme un ping [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Mi cv [resume](https://drive.google.com/file/)
 - 📚 &nbsp; Cuando estoy libre...
 
 <br>
