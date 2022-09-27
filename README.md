@@ -35,7 +35,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 <br>
 
 ### 🛠️ Mis proyectos
-<a href="http://www.prfumigaciones.com.ar/index.html"> <img alt="Pr Fumigaciones" src="http://www.prfumigaciones.com.ar/assets/img/logo/controlacacianegra.png" height="68" align="left"> </a>
+<a href="http://www.prfumigaciones.com.ar/index.html" target="_blank"> <img alt="Pr Fumigaciones" src="http://www.prfumigaciones.com.ar/assets/img/logo/controlacacianegra.png" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
