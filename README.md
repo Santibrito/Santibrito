@@ -11,7 +11,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="[https://i.pinimg.com/originals/4b/56/24/4b5624ffc540f37259b9d07cd84e415e.gif](https://genially.blob.core.windows.net/genially/users/594783e58f76b98940367944/5a61e68fb696132145ac1998/5a61e68fb696132145ac1999/5c9737cc-3f35-4099-8c5e-07369a025e9a.gif?genial&1633824000152)" width="360px"/>
+<img align="right" alt="GIF" src="https://genially.blob.core.windows.net/genially/users/594783e58f76b98940367944/5a61e68fb696132145ac1998/5a61e68fb696132145ac1999/5c9737cc-3f35-4099-8c5e-07369a025e9a.gif?genial&1633824000152" width="360px"/>
   
 ### 🧐 Más sobre mí:
 
