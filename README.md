@@ -39,5 +39,5 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 <a href="https://santibrito.github.io/AmazingEvents_Vanilla/" target="_blank"> <img alt="sheetsdatabase" src="https://santibrito.github.io/AmazingEvents_Vanilla/assets/img/LogoAmazingEvents.png"  height="68" align="left"> </a>
 
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/Santibrito/bankMindHub" target="_blank"> <img alt="readmeicons" src="https://i.ibb.co/FV08FDk/logo.png" height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
