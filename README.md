@@ -12,7 +12,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+### 🧐 Más sobre mí:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
