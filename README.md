@@ -11,7 +11,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/4b/56/24/4b5624ffc540f37259b9d07cd84e415e.gif" width="360px"/>
   
 ### 🧐 Más sobre mí:
 
