@@ -11,18 +11,7 @@ Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web 
 <br/>
 <br/>
 
-<!--
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" width="360px"/>
 
-### 🧐 Más sobre mí:
-
-- 🌱 &nbsp; Actualmente estoy aprendiendo React; 
-- 👨🏻‍💻 &nbsp; La mayoría de mis proyectos están disponibles en [Github](https://github.com/rahul-jha98?tab=repositories)
-- 💬 &nbsp; Pregúnteme sobre cualquier cosa relacionada con la tecnología, estaré feliz de ayudar;
-- 📫 &nbsp; Siéntete libre de enviarme un ping [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Mi cv [resume](https://drive.google.com/file/)
-- 📚 &nbsp; Cuando estoy libre...
---!>
 <br>
 
 ### 🔨 Lenguajes y Herramientas:
