@@ -1,93 +1,29 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+### Hola! 👋
+- Experiencia en desarrollo completo de aplicaciones web utilizando Java tanto en front-end como en back-end, brindando soluciones adaptadas a las necesidades de los clientes.
 
-<p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
-  <a href="https://macropower.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</p>
+- Liderazgo y coordinación de equipos front-end, garantizando el cumplimiento de plazos y estándares de calidad. Responsable de la estructura y diseño web.
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
+- Utilización de Figma para colaborar con los clientes en el diseño de sus sitios web personalizados, logrando interfaces atractivas y funcionales mediante una comunicación efectiva de las ideas de diseño.
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<br>
+### Experiencia Laboral
+En el resumen a continuación encontrará mi experiencia laboral más reciente:
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTim0_voqvpsAfx_zh-K4TKzSwpkbRsAtn-XOOi6OgbCaYZseukGlpTNgNmglhPVyfLQGw&usqp=CAU"/>](https://warpnet.nl/)
 
-> Tools, languages, and other things that I like to work with.
+**NeuralSoft** \
+Desarrollador JAVA • Full-time \
+Lenguajes & Tecnologias: `Java`, `JavaScript`, `PostgreSQL` \
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pps.whatsapp.net/v/t61.24694-24/342230124_1327572067799672_743591862023035627_n.jpg?ccb=11-4&oh=01_AdS5dSbPnS8HruBo0ru3QtNcKasUl38zhA--PQwe8ewVAw&oe=64A401B3"/>](https://duo.nl/)
+
+**Orbita Innova** \
+Co-fundador & Desarrollador Full Stack JAVA \
+Lenguajes & Tecnologias: `HTML5`, `JavaScript`, `CSS3`, `Tailwind CSS`, `Vue3`, `Java`, `Spring Boot`, `PostgreSQL`, `Figma` \
+<br/>
+<br/>
+
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/santibrito/) para obtener una descripción más detallada de mi experiencia laboral completa, educación y certificación.
+
+### Tecnologias
