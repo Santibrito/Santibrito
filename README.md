@@ -26,4 +26,13 @@ Lenguajes & Tecnologias: `HTML5`, `JavaScript`, `CSS3`, `Tailwind CSS`, `Vue3`, 
 
 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/santibrito/) para obtener una descripción más detallada de mi experiencia laboral completa, educación y certificación.
 
-### Tecnologias
+### 🔨 Lenguajes y Herramientas:
+<a target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" height="42px"/> </a> 
+<a  target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="42px"/> </a>
+<a target="_blank"><img align="left" alt="BOOSTRAP" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
+<a target="_blank"><img align="left" alt="TAILWINDCSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></a>
+<a  target="_blank"><img align="left" alt="JAVASCRIPT" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+<a  target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
+<a target="_blank"> <img align="left" alt="JAVA" height ="42px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </a>
+<a  target="_blank"> <img align="left" alt="SPRING BOOT" height ="42px"  src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023060100/1685577881500/Microsoft.VisualStudio.Services.Icons.Default"> </a>
+
