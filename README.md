@@ -1,43 +1,93 @@
-## Hola 👋, Soy Santiago Brito!
-<a href='https://www.linkedin.com/in/santibrito/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-<a href='https://twitter.com/santybritoo'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
+
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 <br>
 
-Soy versátil y me adapto fácilmente a diferentes proyectos (Desarrollador Web Full Stack JAVA🌐) dependiendo de lo que requiera el proyecto. Me encanta explorar nuevas pilas de tecnología 💻 y aprovecharlas para crear productos geniales 🛠️.
-<br/>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
+> Tools, languages, and other things that I like to work with.
 
-
-### 🔨 Lenguajes y Herramientas:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" height="42px"/> </a> 
-
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" height="42px"/> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="boostrap" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
-
-
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></a>
-
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></a>
-
-<a href="https://www.python.org" target="_blank"><img align="left" alt="js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
-
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="java" height ="42px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png"> </a>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-
-
-
-<br>
-<br>
-
-### 🛠️ Mis proyectos
-<a href="http://www.prfumigaciones.com.ar/index.html" target="_blank"> <img alt="Pr Fumigaciones" src="http://www.prfumigaciones.com.ar/assets/img/logo/controlacacianegra.png" height="63" align="left"> </a>
-
-<a href="https://github.com/Santibrito/AmazingEvents"> <img alt="sheetsdatabase" src="https://raw.githubusercontent.com/Santibrito/AmazingEvents/main/assets/img/LogoAmazingEvents.png"  height="63" align="left"> </a>
-
-<a href="https://github.com/Santibrito/ProyectoFinal" target="_blank"> <img alt="readmeicons" src="https://i.ibb.co/FV08FDk/logo.png" height="63" align="left"> </a>
-<a href="https://github.com/Santibrito/bankMindHub" target="_blank"> <img alt="passwordkeeper" src="https://i.ibb.co/2k7y0bB/cdnlogo-com-deutsche-bank.png" height="63" align="left"> </a>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
