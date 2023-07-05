@@ -16,7 +16,7 @@ Desarrollador JAVA • Full-time \
 Lenguajes & Tecnologias: `Java`, `JavaScript`, `PostgreSQL` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://pps.whatsapp.net/v/t61.24694-24/342230124_1327572067799672_743591862023035627_n.jpg?ccb=11-4&oh=01_AdS5dSbPnS8HruBo0ru3QtNcKasUl38zhA--PQwe8ewVAw&oe=64A401B3"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media.licdn.com/dms/image/D4D0BAQHfoqI9G9AghQ/company-logo_200_200/0/1667401124180?e=1696464000&v=beta&t=ReaWGQJ-kaFvxGWYdC-Sgd1DJmXTksH9j_8kia5sEBw"/>](https://duo.nl/)
 
 **Orbita Innova** \
 Co-fundador & Desarrollador Full Stack JAVA \
