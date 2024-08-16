@@ -9,6 +9,14 @@
 ### Experiencia Laboral
 En el resumen a continuación encontrará mi experiencia laboral más reciente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/169870789?s=200&v=4"/>](https://warpnet.nl/)
+
+**Akloust** \
+Fundador \
+Lenguajes & Tecnologias: `Java`, `Spring Boot`, `JavaScript`, `TypeScript`, `Tailwind CSS`, `HTML5`,`CSS3`, `SASS`, `Figma`, `PostgreSQL` \
+<br/>
+
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTim0_voqvpsAfx_zh-K4TKzSwpkbRsAtn-XOOi6OgbCaYZseukGlpTNgNmglhPVyfLQGw&usqp=CAU"/>](https://warpnet.nl/)
 
 **NeuralSoft** \
@@ -33,6 +41,7 @@ Encuéntrame en [LinkedIn](https://www.linkedin.com/in/santibrito/) para obtener
 <a target="_blank"><img align="left" alt="BOOSTRAP" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
 <a target="_blank"><img align="left" alt="TAILWINDCSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></a>
 <a  target="_blank"><img align="left" alt="JAVASCRIPT" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
+<a  target="_blank"><img align="left" alt="TYPESCRIPT" height ="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAw6g643X_IP059eZ03Jh_kcr9-a-oQpMdhQ&s"></a>
 <a  target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height ="42px"/> </a>
 <a target="_blank"> <img align="left" alt="JAVA" height ="42px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> </a>
 <a  target="_blank"> <img align="left" alt="SPRING BOOT" height ="42px"  src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023060100/1685577881500/Microsoft.VisualStudio.Services.Icons.Default"> </a>
