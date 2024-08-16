@@ -29,6 +29,7 @@ Encuéntrame en [LinkedIn](https://www.linkedin.com/in/santibrito/) para obtener
 ### 🔨 Lenguajes y Herramientas:
 <a target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" height="42px"/> </a> 
 <a  target="_blank"> <img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="42px"/> </a>
+<a  target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/317889?s=280&v=4" alt="SASS" height="42px"/> </a>
 <a target="_blank"><img align="left" alt="BOOSTRAP" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a>
 <a target="_blank"><img align="left" alt="TAILWINDCSS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"></a>
 <a  target="_blank"><img align="left" alt="JAVASCRIPT" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
