@@ -9,22 +9,22 @@
 ### Experiencia Laboral
 En el resumen a continuación encontrará mi experiencia laboral más reciente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/169870789?s=200&v=4"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Propyges" src="[https://avatars.githubusercontent.com/u/169870789?s=200&v=4](https://iili.io/fIW9eXp.png)"/>]()
 
-**Akloust** \
+**Propyges** \
 Fundador \
-Lenguajes & Tecnologias: `Java`, `Spring Boot`, `JavaScript`, `TypeScript`, `Tailwind CSS`, `HTML5`,`CSS3`, `SASS`, `Figma`, `PostgreSQL` \
+Lenguajes & Tecnologias: `Java`, `Spring Boot`, `Vue3`, `TypeScript`, `Tailwind CSS`, `HTML5`,`CSS3`, `PostgreSQL`, `Figma`, \
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTim0_voqvpsAfx_zh-K4TKzSwpkbRsAtn-XOOi6OgbCaYZseukGlpTNgNmglhPVyfLQGw&usqp=CAU"/>](https://warpnet.nl/)
+[<img align="left" height="94px" width="94px" alt="Neuralsoft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTim0_voqvpsAfx_zh-K4TKzSwpkbRsAtn-XOOi6OgbCaYZseukGlpTNgNmglhPVyfLQGw&usqp=CAU"/>]()
 
 **NeuralSoft** \
 Desarrollador JAVA • Full-time \
 Lenguajes & Tecnologias: `Java`,`HTML5`,`CSS3`,`SASS`, `JavaScript`, `PostgreSQL` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media.licdn.com/dms/image/D4D0BAQHfoqI9G9AghQ/company-logo_200_200/0/1667401124610?e=2147483647&v=beta&t=pgosU4G2RMUmr3il2D8uwoj0nRIxFG_wnC2PBnDaAe0"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="Obrbita Innova)" src="https://media.licdn.com/dms/image/D4D0BAQHfoqI9G9AghQ/company-logo_200_200/0/1667401124610?e=2147483647&v=beta&t=pgosU4G2RMUmr3il2D8uwoj0nRIxFG_wnC2PBnDaAe0"/>]()
 
 **Orbita Innova** \
 Co-fundador & Desarrollador Full Stack JAVA \
