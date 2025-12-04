@@ -9,7 +9,7 @@
 ### Experiencia Laboral
 En el resumen a continuación encontrará mi experiencia laboral más reciente:
 
-[<img align="left" height="94px" width="94px" alt="Propyges" src="[https://avatars.githubusercontent.com/u/169870789?s=200&v=4](https://iili.io/fIW9eXp.png)"/>]()
+[<img align="left" height="94px" width="94px" alt="Propyges" src="https://iili.io/fIW9eXp.png"/>]()
 
 **Propyges** \
 Fundador \
