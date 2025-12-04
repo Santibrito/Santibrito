@@ -1,8 +1,11 @@
 ### Hola 👋
 
 * Desarrollo aplicaciones web completas con Java, con foco en back-end: diseño de APIs REST, gestión de seguridad (JWT, roles), integración con bases de datos relacionales y modelos de dominio complejos.
+
 * Experiencia construyendo plataformas SaaS multi-tenant: manejo de contexto de tenant, validaciones centralizadas, servicios modulares y arquitecturas escalables orientadas a clientes reales.
+
 * Liderazgo técnico en equipos front-end: definición de estructura, patrones de desarrollo y estándares de calidad.
+
 * Diseño y validación de interfaces junto a clientes, asegurando flujos claros, consistentes y alineados con los objetivos del producto.
 
 ### Experiencia Laboral
