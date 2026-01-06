@@ -11,14 +11,6 @@
 ### Experiencia Laboral
 En el resumen a continuación encontrará mi experiencia laboral más reciente:
 
-[<img align="left" height="94px" width="94px" alt="Propyges" src="https://iili.io/fIW9eXp.png"/>]()
-
-**Propyges** \
-Fundador \
-Lenguajes & Tecnologias: `Java`, `Spring Boot`, `Vue3`, `TypeScript`, `Tailwind CSS`, `HTML5`,`CSS3`, `PostgreSQL`, `Figma`, \
-<br/>
-
-
 [<img align="left" height="94px" width="94px" alt="Neuralsoft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTim0_voqvpsAfx_zh-K4TKzSwpkbRsAtn-XOOi6OgbCaYZseukGlpTNgNmglhPVyfLQGw&usqp=CAU"/>]()
 
 **NeuralSoft** \
